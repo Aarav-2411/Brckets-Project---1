@@ -1,0 +1,12 @@
+body {
+    background-color:beige;
+    text-align:center;
+}
+h1 {
+    font-variant-caps: small-caps;
+    color:aqua;
+    font-family: 'Coda Caption', sans-serif;
+}
+h2 {
+    font-family: 'Fraunces', serif;
+}
